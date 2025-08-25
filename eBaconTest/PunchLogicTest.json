@@ -1,0 +1,51 @@
+{
+  "jobMeta": [
+    {
+      "job": "Hospital - Painter",
+      "rate": 31.25,
+      "benefitsRate": 1
+    },
+    {
+      "job": "Hospital - Laborer",
+      "rate": 20.0,
+      "benefitsRate": 0.5
+    },
+    {
+      "job": "Shop - Laborer",
+      "rate": 16.25,
+      "benefitsRate": 1.25
+    }
+  ],
+  "employeeData": [
+    {
+      "employee": "Mike",
+      "timePunch": [
+        {
+          "job": "Hospital - Laborer",
+          "start": "2022-02-18 09:00:01",
+          "end": "2022-02-18 11:28:54"
+        }
+      ]
+    },
+    {
+      "employee": "Steve",
+      "timePunch": [
+        {
+          "job": "Hospital - Painter",
+          "start": "2022-02-18 06:02:35",
+          "end": "2022-02-18 11:28:54"
+        }
+      ]
+    },
+    {
+      "employee": "Alex",
+      "timePunch": [
+        {
+          "job": "Shop - Laborer",
+          "start": "2022-02-18 06:05:55",
+          "end": "2022-02-18 11:18:14"
+        }
+      ]
+    }
+  ]
+}

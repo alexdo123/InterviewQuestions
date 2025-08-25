@@ -1,0 +1,39 @@
+{
+  "DividendAmounts": [
+    {
+      "Investment": "TSLA",
+      "Amount": "$100"
+    },
+    {
+      "Investment": "APPL",
+      "Amount": "$50"
+    }
+  ],
+  "EmployeeData": [
+    {
+      "Name": "Person A",
+      "Amount": "$1000",
+      "Investment": "TSLA"
+    },
+    {
+      "Name": "Person B",
+      "Amount": "$500",
+      "Investment": "TSLA"
+    },
+    {
+      "Name": "Person C",
+      "Amount": "$500",
+      "Investment": "TSLA"
+    },
+    {
+      "Name": "Person A",
+      "Amount": "$57.38",
+      "Investment": "APPL"
+    },
+    {
+      "Name": "Person B",
+      "Amount": "$36.34",
+      "Investment": "APPL"
+    }
+  ]
+}
